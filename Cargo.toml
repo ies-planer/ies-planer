@@ -1,0 +1,8 @@
+[package]
+name = "ies-planer"
+version = "0.0.0-testing"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
